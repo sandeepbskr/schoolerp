@@ -1,0 +1,332 @@
+2015-04-15 22:55:54.4853|ERROR|thread: 1|SyncButtonViewModel|Branch was not updated before refresh was called
+2015-04-15 22:45:28.7500|INFO|thread: 1|CommandLineHandler|Parsing command line arguments:http://github-windows.s3.amazonaws.com/GitHub.application
+2015-04-15 22:45:28.7695|INFO|thread: 1|AppInstanceCommunicator|Starting up as master instance of GitHub for Windows
+2015-04-15 22:45:28.9335|INFO|thread: 4|StartupLogging| #########################################
+2015-04-15 22:45:28.9335|INFO|thread: 4|StartupLogging| GitHub for Windows started. VERSION: 2.13.1.2
+2015-04-15 22:45:28.9335|INFO|thread: 4|StartupLogging| Build version: 21ce1faec1d5642a5b6160cc2c33c7cdbbc01d4c
+2015-04-15 22:45:28.9335|INFO|thread: 4|StartupLogging| ***************************************
+2015-04-15 22:45:28.9335|INFO|thread: 4|StartupLogging| ***                                 ***
+2015-04-15 22:45:28.9335|INFO|thread: 4|StartupLogging| ***                                 ***
+2015-04-15 22:45:28.9335|INFO|thread: 4|StartupLogging| ***        Have a problem?          ***
+2015-04-15 22:45:28.9335|INFO|thread: 4|StartupLogging| ***    Email support@github.com     ***
+2015-04-15 22:45:28.9335|INFO|thread: 4|StartupLogging| ***      and include this file      ***
+2015-04-15 22:45:28.9335|INFO|thread: 4|StartupLogging| ***                                 ***
+2015-04-15 22:45:28.9335|INFO|thread: 4|StartupLogging| ***                                 ***
+2015-04-15 22:45:28.9335|INFO|thread: 4|StartupLogging| ***************************************
+2015-04-15 22:45:28.9335|INFO|thread: 4|StartupLogging| OS Version: Windows 7 Service Pack 1 6.1.7601.65536 x86
+2015-04-15 22:45:28.9335|INFO|thread: 4|StartupLogging| CLR Version: 4.0.30319.17929
+2015-04-15 22:45:28.9335|INFO|thread: 4|StartupLogging| Current culture: en-US
+2015-04-15 22:45:28.9335|INFO|thread: 4|StartupLogging| Terminal Services session: no
+2015-04-15 22:45:28.9335|INFO|thread: 4|StartupLogging| Location: C:\Users\admin\AppData\Local\Apps\2.0\ZYOWP79T.V35\COW2NZV5.1EC\gith..tion_317444273a93ac29_0002.000d_7c798cfff9a06ed4\GitHub.exe
+2015-04-15 22:45:28.9726|INFO|thread: 4|StartupLogging| ActivationUri: https://github-windows.s3.amazonaws.com/GitHub.application
+2015-04-15 22:45:28.9882|INFO|thread: 4|GitEnvironment|Process set up with this SSH Agent info: (null):(null)
+2015-04-15 22:45:28.9882|INFO|thread: 4|GitEnvironment|PATH is C:\Users\admin\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\cmd;C:\Users\admin\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin;C:\Users\admin\AppData\Local\Apps\2.0\ZYOWP79T.V35\COW2NZV5.1EC\gith..tion_317444273a93ac29_0002.000d_7c798cfff9a06ed4;C:\Users\admin\AppData\Local\GitHub\lfs-x86_0.5.0-pre2;C:\Windows\Microsoft.NET\Framework\v4.0.30319;C:\Users\admin\AppData\Local\Google\Chrome\Application;C:\ProgramData\Oracle\Java\javapath;C:\oracle\product\10.2.0\db_1\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\
+2015-04-15 22:45:28.9882|INFO|thread: 4|StartupLogging| =====================================================
+2015-04-15 22:45:28.9882|INFO|thread: 4|StartupLogging|  DIAGNOSTICS                                        |
+2015-04-15 22:45:28.9882|INFO|thread: 4|StartupLogging| =====================================================
+2015-04-15 22:45:28.9882|INFO|thread: 4|StartupLogging| Git Extracted: 'False:
+2015-04-15 22:45:28.9882|ERROR|thread: 4|StartupLogging| MISSING PortableGit Dir: 'C:\Users\admin\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad'
+2015-04-15 22:45:29.0039|ERROR|thread: 4|PortableGitManager|git.exe doesn't exist at 'C:\Users\admin\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin\git.exe'
+2015-04-15 22:45:29.0039|ERROR|thread: 4|StartupLogging| MISSING Git Executable: 'C:\Users\admin\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin\git.exe'
+2015-04-15 22:45:29.0039|ERROR|thread: 4|StartupLogging| MISSING PATH!!: 'C:\Users\admin\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\cmd'
+2015-04-15 22:45:29.0039|ERROR|thread: 4|StartupLogging| MISSING PATH!!: 'C:\Users\admin\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin'
+2015-04-15 22:45:29.0039|ERROR|thread: 4|StartupLogging| MISSING PATH!!: 'C:\Users\admin\AppData\Local\GitHub\lfs-x86_0.5.0-pre2'
+2015-04-15 22:45:29.0039|INFO|thread: 4|StartupLogging| ----------------------------------------------------
+2015-04-15 22:45:29.0039|INFO|thread: 4|StartupLogging| PATH: C:\Users\admin\AppData\Local\Google\Chrome\Application;C:\ProgramData\Oracle\Java\javapath;C:\oracle\product\10.2.0\db_1\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\
+2015-04-15 22:45:29.0556|INFO|thread: 4|StartupLogger|Proxy information: (None)
+2015-04-15 22:45:29.0556|INFO|thread: 4|StartupLogger|Couldn't fetch creds for proxy
+2015-04-15 22:45:29.0644|INFO|thread: 4|UrlProtocolInstaller|Registered UrlAppLauncher protocol: "C:\Users\admin\AppData\Local\Apps\2.0\ZYOWP79T.V35\COW2NZV5.1EC\gith..tion_317444273a93ac29_0002.000d_7c798cfff9a06ed4\GitHub.exe" -u="%1"
+2015-04-15 22:45:29.0644|INFO|thread: 4|ShortcutManager|Shortcut 'C:\Users\admin\AppData\Local\GitHub\GitHub.appref-ms' missing. Assuming a first run.
+2015-04-15 22:45:29.0644|INFO|thread: 4|ShortcutManager|Copying the Start Menu shortcut 'C:\Users\admin\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\GitHub, Inc\GitHub.appref-ms' to 'C:\Users\admin\AppData\Local\GitHub\GitHub.appref-ms'
+2015-04-15 22:45:29.1357|INFO|thread: 4|ShortcutManager|Saving the Git Shell shortcut C:\Users\admin\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\GitHub, Inc\Git Shell.lnk
+2015-04-15 22:45:29.1533|INFO|thread: 4|ShortcutManager|Saving the Git Shell shortcut C:\Users\admin\Desktop\Git Shell.lnk
+2015-04-15 22:45:29.1972|INFO|thread: 5|HardwareRenderingHelper|Making a WMI query to discover any video PNPID entries
+2015-04-15 22:45:29.2412|INFO|thread: 4|ProcessWrapper|Starting: Process - FileName: 'C:\Users\admin\AppData\Local\Apps\2.0\ZYOWP79T.V35\COW2NZV5.1EC\gith..tion_317444273a93ac29_0002.000d_7c798cfff9a06ed4\7za.exe', Args: 'x -y "-oC:\Users\admin\AppData\Local\GitHub\bl2pgcph.xik.deleteme" "C:\Users\admin\AppData\Local\Apps\2.0\ZYOWP79T.V35\COW2NZV5.1EC\gith..tion_317444273a93ac29_0002.000d_7c798cfff9a06ed4\PortableGit.7z"', Working Directory: 
+2015-04-15 22:45:29.3144|INFO|thread: 4|PortablePackageManager|Extracting PortableGit.7z is (so far) successful
+2015-04-15 22:45:30.8964|INFO|thread: 1|HardwareRenderingHelper|Your video card appears to support hardware rendering. If this isn't the case and you see glitches
+2015-04-15 22:45:30.8964|INFO|thread: 1|HardwareRenderingHelper|set the GH_FORCE_SW_RENDERING environment variable to 1
+2015-04-15 22:45:31.8056|INFO|thread: 1|App|Checking whether application is network deployed.
+2015-04-15 22:45:32.0986|INFO|thread: 1|ClickOnceAppIconHelper|Updating registry with our application icon 'C:\Users\admin\AppData\Local\Apps\2.0\ZYOWP79T.V35\COW2NZV5.1EC\gith..tion_317444273a93ac29_0002.000d_7c798cfff9a06ed4\Images\App.ico'
+2015-04-15 22:45:40.5546|INFO|thread: 1|ReactiveScreen|Activating GitHub.ViewModels.ShellViewModel.
+2015-04-15 22:45:40.5546|INFO|thread: 1|ReactiveScreen|Activating GitHub.ViewModels.DashboardViewModel.
+2015-04-15 22:45:40.5957|WARN|thread:16|RepositoryCache|An exception occurred while loading repositories from cache
+System.Collections.Generic.KeyNotFoundException: The given key 'tracked-repositories' was not present in the cache.
+2015-04-15 22:45:42.4277|INFO|thread:16|SoftwareUpdateViewModel|Checking for new version
+2015-04-15 22:45:45.7744|INFO|thread: 1|ProcessWrapper|Starting: Process - FileName: 'C:\Users\admin\AppData\Local\Apps\2.0\ZYOWP79T.V35\COW2NZV5.1EC\gith..tion_317444273a93ac29_0002.000d_7c798cfff9a06ed4\7za.exe', Args: 'x -y "-oC:\Users\admin\AppData\Local\GitHub\xl5aic0s.znx.deleteme" "C:\Users\admin\AppData\Local\Apps\2.0\ZYOWP79T.V35\COW2NZV5.1EC\gith..tion_317444273a93ac29_0002.000d_7c798cfff9a06ed4\gitignore.7z"', Working Directory: 
+2015-04-15 22:45:45.7851|INFO|thread: 1|PortablePackageManager|Extracting gitignore.7z is (so far) successful
+2015-04-15 22:45:50.4492|INFO|thread:12|PortablePackageManager|GitHub.IO.ObservableProcess
+2015-04-15 22:45:55.5703|INFO|thread: 5|MsysGitCertificateInstaller|Generated certificate cache with 162 certificates
+2015-04-15 22:45:55.9550|INFO|thread: 5|MsysGitCertificateInstaller|Created certificate bundle with 163 entries
+2015-04-15 22:45:55.9755|INFO|thread: 5|ConfigurationFactory|Didn't find '~/.gitconfig', creating one.
+2015-04-15 22:45:56.3486|INFO|thread: 5|ProcessWrapper|Starting: Process - FileName: 'C:\Users\admin\AppData\Local\Apps\2.0\ZYOWP79T.V35\COW2NZV5.1EC\gith..tion_317444273a93ac29_0002.000d_7c798cfff9a06ed4\7za.exe', Args: 'x -y "-oC:\Users\admin\AppData\Local\GitHub\tth0qznm.im2.deleteme" "C:\Users\admin\AppData\Local\Apps\2.0\ZYOWP79T.V35\COW2NZV5.1EC\gith..tion_317444273a93ac29_0002.000d_7c798cfff9a06ed4\lfs-x86.7z"', Working Directory: 
+2015-04-15 22:45:56.3486|INFO|thread: 5|PortablePackageManager|Extracting lfs-x86.7z is (so far) successful
+2015-04-15 22:45:56.3593|INFO|thread: 5|PortablePackageManager|GitHub.IO.ObservableProcess
+2015-04-15 22:46:01.8935|INFO|thread: 1|ReactiveScreen|Activating GitHub.ViewModels.WelcomeWizardViewModel.
+2015-04-15 22:46:02.0517|INFO|thread: 5|PortablePackageManager|GitHub.IO.ObservableProcess
+2015-04-15 22:46:02.0683|INFO|thread: 1|GitClient|Installing git lfs filters
+2015-04-15 22:46:02.0683|INFO|thread: 1|GitEnvironment|Process set up with this SSH Agent info: (null):(null)
+2015-04-15 22:46:02.0683|INFO|thread: 1|GitEnvironment|PATH is C:\Users\admin\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\cmd;C:\Users\admin\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin;C:\Users\admin\AppData\Local\Apps\2.0\ZYOWP79T.V35\COW2NZV5.1EC\gith..tion_317444273a93ac29_0002.000d_7c798cfff9a06ed4;C:\Users\admin\AppData\Local\GitHub\lfs-x86_0.5.0-pre2;C:\Windows\Microsoft.NET\Framework\v4.0.30319;C:\Windows\System32
+2015-04-15 22:46:02.0781|INFO|thread: 1|ProcessWrapper|Starting: Process - FileName: 'C:\Users\admin\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin\git.exe', Args: 'lfs init ', Working Directory: C:\Users\admin\AppData\Local\Temp\
+2015-04-15 22:46:04.5927|INFO|thread:23|GitHubShellSetupHelper|Wrote GitHubShell setup script here 'C:\Users\admin\AppData\Local\GitHub\shell.ps1'
+2015-04-15 22:46:31.9960|INFO|thread: 1|ReactiveScreen|Deactivating GitHub.ViewModels.WelcomeWizardViewModel.
+2015-04-15 22:46:31.9960|INFO|thread: 1|ReactiveScreen|Closed GitHub.ViewModels.WelcomeWizardViewModel.
+2015-04-15 22:48:04.1562|INFO|thread: 1|RepositoryCreator|Creating and initializing new local repository here 'C:\Users\admin\Documents\GitHub\schoolerp'
+2015-04-15 22:48:04.5175|INFO|thread: 4|AsyncReaderWriterLock|Acquiring exclusive lock for operation 1: 'CreateCommit' on resource C:\Users\admin\Documents\GitHub\schoolerp\.git
+2015-04-15 22:48:04.5175|INFO|thread:16|AsyncReaderWriterLock|Acquired exclusive lock for operation 1: 'CreateCommit' on resource C:\Users\admin\Documents\GitHub\schoolerp\.git
+2015-04-15 22:48:04.5380|INFO|thread:26|ExclusiveRepositoryConnection|Creating Commit
+2015-04-15 22:48:04.5615|INFO|thread:26|ExclusiveRepositoryConnection|Creating new commit with 2 file(s). :octocat: Added .gitattributes & .gitignore files
+2015-04-15 22:48:04.5673|INFO|thread:26|GitEnvironment|Process set up with this SSH Agent info: (null):(null)
+2015-04-15 22:48:04.5673|INFO|thread:26|GitEnvironment|PATH is C:\Users\admin\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\cmd;C:\Users\admin\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin;C:\Users\admin\AppData\Local\Apps\2.0\ZYOWP79T.V35\COW2NZV5.1EC\gith..tion_317444273a93ac29_0002.000d_7c798cfff9a06ed4;C:\Users\admin\AppData\Local\GitHub\lfs-x86_0.5.0-pre2;C:\Windows\Microsoft.NET\Framework\v4.0.30319;C:\Windows\System32
+2015-04-15 22:48:04.5673|INFO|thread:26|ProcessWrapper|Starting: Process - FileName: 'C:\Users\admin\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin\git.exe', Args: 'add --all "C:\Users\admin\Documents\GitHub\schoolerp\.gitattributes" ', Working Directory: C:\Users\admin\Documents\GitHub\schoolerp\
+2015-04-15 22:48:04.8095|INFO|thread:24|GitEnvironment|Process set up with this SSH Agent info: (null):(null)
+2015-04-15 22:48:04.8095|INFO|thread:24|GitEnvironment|PATH is C:\Users\admin\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\cmd;C:\Users\admin\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin;C:\Users\admin\AppData\Local\Apps\2.0\ZYOWP79T.V35\COW2NZV5.1EC\gith..tion_317444273a93ac29_0002.000d_7c798cfff9a06ed4;C:\Users\admin\AppData\Local\GitHub\lfs-x86_0.5.0-pre2;C:\Windows\Microsoft.NET\Framework\v4.0.30319;C:\Windows\System32
+2015-04-15 22:48:04.8095|INFO|thread:24|ProcessWrapper|Starting: Process - FileName: 'C:\Users\admin\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin\git.exe', Args: 'add --all "C:\Users\admin\Documents\GitHub\schoolerp\.gitignore" ', Working Directory: C:\Users\admin\Documents\GitHub\schoolerp\
+2015-04-15 22:48:04.9482|INFO|thread:24|GitEnvironment|Process set up with this SSH Agent info: (null):(null)
+2015-04-15 22:48:04.9482|INFO|thread:24|GitEnvironment|PATH is C:\Users\admin\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\cmd;C:\Users\admin\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin;C:\Users\admin\AppData\Local\Apps\2.0\ZYOWP79T.V35\COW2NZV5.1EC\gith..tion_317444273a93ac29_0002.000d_7c798cfff9a06ed4;C:\Users\admin\AppData\Local\GitHub\lfs-x86_0.5.0-pre2;C:\Windows\Microsoft.NET\Framework\v4.0.30319;C:\Windows\System32
+2015-04-15 22:48:04.9482|INFO|thread:24|ProcessWrapper|Starting: Process - FileName: 'C:\Users\admin\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin\git.exe', Args: 'commit -F "C:\Users\admin\AppData\Local\Temp\tmp9044.tmp" ', Working Directory: C:\Users\admin\Documents\GitHub\schoolerp\
+2015-04-15 22:48:05.2197|WARN|thread:24|RepositoryCreator|Failed to autocommit .gitattributes and/or .gitignore files
+GitHub.IO.ProcessException: 
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'admin@admin-PC.(none)')
+2015-04-15 22:48:05.2197|INFO|thread:24|RepositoryCreator|Created repository sucessfully: 'C:\Users\admin\Documents\GitHub\schoolerp'
+2015-04-15 22:48:05.2197|INFO|thread:24|AsyncReaderWriterLock|Released exclusive lock for operation 1: 'CreateCommit' on resource C:\Users\admin\Documents\GitHub\schoolerp\.git
+2015-04-15 22:49:38.2792|INFO|thread:26|AsyncReaderWriterLock|Acquiring concurrent lock for operation 2: 'GetRecentBranchNames' on resource C:\Users\admin\Documents\GitHub\schoolerp\.git
+2015-04-15 22:49:38.2792|INFO|thread:26|AsyncReaderWriterLock|Acquired concurrent lock for operation 2: 'GetRecentBranchNames' on resource C:\Users\admin\Documents\GitHub\schoolerp\.git
+2015-04-15 22:49:38.2998|INFO|thread:31|GitEnvironment|Process set up with this SSH Agent info: (null):(null)
+2015-04-15 22:49:38.2998|INFO|thread:31|GitEnvironment|PATH is C:\Users\admin\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\cmd;C:\Users\admin\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin;C:\Users\admin\AppData\Local\Apps\2.0\ZYOWP79T.V35\COW2NZV5.1EC\gith..tion_317444273a93ac29_0002.000d_7c798cfff9a06ed4;C:\Users\admin\AppData\Local\GitHub\lfs-x86_0.5.0-pre2;C:\Windows\Microsoft.NET\Framework\v4.0.30319;C:\Windows\System32
+2015-04-15 22:49:38.2998|INFO|thread:31|ProcessWrapper|Starting: Process - FileName: 'C:\Users\admin\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin\git.exe', Args: 'log -g --abbrev-commit --pretty=oneline HEAD -n 2500 ', Working Directory: C:\Users\admin\Documents\GitHub\schoolerp\
+2015-04-15 22:49:38.3554|INFO|thread:28|AsyncReaderWriterLock|Released concurrent lock for operation 2: 'GetRecentBranchNames' on resource C:\Users\admin\Documents\GitHub\schoolerp\.git
+2015-04-15 22:49:38.8662|INFO|thread:29|GitClient|Loading commits for repo: C:\Users\admin\Documents\GitHub\schoolerp
+2015-04-15 22:49:38.8662|INFO|thread:29|RepositoryConnection|No references found for repo: C:\Users\admin\Documents\GitHub\schoolerp\
+2015-04-15 22:49:39.1679|INFO|thread: 1|RepositoryViewModel|Refreshing all information for repo
+2015-04-15 22:49:39.1816|INFO|thread:26|AsyncReaderWriterLock|Acquiring concurrent lock for operation 3: 'LoadHeadForRepo' on resource C:\Users\admin\Documents\GitHub\schoolerp\.git
+2015-04-15 22:49:39.1816|INFO|thread:26|AsyncReaderWriterLock|Acquired concurrent lock for operation 3: 'LoadHeadForRepo' on resource C:\Users\admin\Documents\GitHub\schoolerp\.git
+2015-04-15 22:49:39.1923|INFO|thread:31|AsyncReaderWriterLock|Released concurrent lock for operation 3: 'LoadHeadForRepo' on resource C:\Users\admin\Documents\GitHub\schoolerp\.git
+2015-04-15 22:49:39.2089|INFO|thread:28|AsyncReaderWriterLock|Acquiring concurrent lock for operation 4: 'LoadFilesInWorkingDirectory' on resource C:\Users\admin\Documents\GitHub\schoolerp\.git
+2015-04-15 22:49:39.2089|INFO|thread:28|AsyncReaderWriterLock|Acquired concurrent lock for operation 4: 'LoadFilesInWorkingDirectory' on resource C:\Users\admin\Documents\GitHub\schoolerp\.git
+2015-04-15 22:49:39.2089|INFO|thread:34|GitEnvironment|Process set up with this SSH Agent info: (null):(null)
+2015-04-15 22:49:39.2089|INFO|thread:34|GitEnvironment|PATH is C:\Users\admin\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\cmd;C:\Users\admin\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin;C:\Users\admin\AppData\Local\Apps\2.0\ZYOWP79T.V35\COW2NZV5.1EC\gith..tion_317444273a93ac29_0002.000d_7c798cfff9a06ed4;C:\Users\admin\AppData\Local\GitHub\lfs-x86_0.5.0-pre2;C:\Windows\Microsoft.NET\Framework\v4.0.30319;C:\Windows\System32
+2015-04-15 22:49:39.2089|INFO|thread:34|ProcessWrapper|Starting: Process - FileName: 'C:\Users\admin\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin\git.exe', Args: 'status --untracked-files=all --porcelain -z ', Working Directory: C:\Users\admin\Documents\GitHub\schoolerp\
+2015-04-15 22:49:39.3886|INFO|thread:32|AsyncReaderWriterLock|Released concurrent lock for operation 4: 'LoadFilesInWorkingDirectory' on resource C:\Users\admin\Documents\GitHub\schoolerp\.git
+2015-04-15 22:49:40.5117|INFO|thread: 1|RepositoryViewModel|Created Shadow Backup for Repo: C:\Users\admin\Documents\GitHub\schoolerp => 845a8ab73782a5434398b611560c55875ee9007f in 1,129ms
+2015-04-15 22:49:40.6718|ERROR|thread: 1|SyncButtonViewModel|Branch was not updated before refresh was called
+2015-04-15 22:49:40.6718|ERROR|thread: 1|SyncButtonViewModel|Branch was not updated before refresh was called
+2015-04-15 22:51:04.7138|INFO|thread: 1|RepositoryViewModel|Refreshing all information for repo
+2015-04-15 22:51:04.7138|INFO|thread:24|AsyncReaderWriterLock|Acquiring concurrent lock for operation 5: 'LoadHeadForRepo' on resource C:\Users\admin\Documents\GitHub\schoolerp\.git
+2015-04-15 22:51:04.7138|INFO|thread:24|AsyncReaderWriterLock|Acquired concurrent lock for operation 5: 'LoadHeadForRepo' on resource C:\Users\admin\Documents\GitHub\schoolerp\.git
+2015-04-15 22:51:04.7294|INFO|thread:23|AsyncReaderWriterLock|Released concurrent lock for operation 5: 'LoadHeadForRepo' on resource C:\Users\admin\Documents\GitHub\schoolerp\.git
+2015-04-15 22:51:04.7294|INFO|thread:31|AsyncReaderWriterLock|Acquiring concurrent lock for operation 6: 'LoadFilesInWorkingDirectory' on resource C:\Users\admin\Documents\GitHub\schoolerp\.git
+2015-04-15 22:51:04.7294|INFO|thread:31|AsyncReaderWriterLock|Acquired concurrent lock for operation 6: 'LoadFilesInWorkingDirectory' on resource C:\Users\admin\Documents\GitHub\schoolerp\.git
+2015-04-15 22:51:04.7392|INFO|thread:21|GitEnvironment|Process set up with this SSH Agent info: (null):(null)
+2015-04-15 22:51:04.7392|INFO|thread:21|GitEnvironment|PATH is C:\Users\admin\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\cmd;C:\Users\admin\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin;C:\Users\admin\AppData\Local\Apps\2.0\ZYOWP79T.V35\COW2NZV5.1EC\gith..tion_317444273a93ac29_0002.000d_7c798cfff9a06ed4;C:\Users\admin\AppData\Local\GitHub\lfs-x86_0.5.0-pre2;C:\Windows\Microsoft.NET\Framework\v4.0.30319;C:\Windows\System32
+2015-04-15 22:51:04.7392|INFO|thread:21|ProcessWrapper|Starting: Process - FileName: 'C:\Users\admin\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin\git.exe', Args: 'status --untracked-files=all --porcelain -z ', Working Directory: C:\Users\admin\Documents\GitHub\schoolerp\
+2015-04-15 22:51:04.9306|INFO|thread:24|AsyncReaderWriterLock|Released concurrent lock for operation 6: 'LoadFilesInWorkingDirectory' on resource C:\Users\admin\Documents\GitHub\schoolerp\.git
+2015-04-15 22:51:04.9414|ERROR|thread: 1|SyncButtonViewModel|Branch was not updated before refresh was called
+2015-04-15 22:51:17.0136|INFO|thread: 1|RepositoryCreator|Creating and initializing new local repository here 'D:\Development\schoolerp'
+2015-04-15 22:51:17.0791|INFO|thread:23|AsyncReaderWriterLock|Acquiring exclusive lock for operation 7: 'CreateCommit' on resource D:\Development\schoolerp\.git
+2015-04-15 22:51:17.0791|INFO|thread:23|AsyncReaderWriterLock|Acquired exclusive lock for operation 7: 'CreateCommit' on resource D:\Development\schoolerp\.git
+2015-04-15 22:51:17.0791|INFO|thread:18|ExclusiveRepositoryConnection|Creating Commit
+2015-04-15 22:51:17.0791|INFO|thread:18|ExclusiveRepositoryConnection|Creating new commit with 2 file(s). :confetti_ball: Added .gitattributes & .gitignore files
+2015-04-15 22:51:17.0791|INFO|thread:18|GitEnvironment|Process set up with this SSH Agent info: (null):(null)
+2015-04-15 22:51:17.0791|INFO|thread:18|GitEnvironment|PATH is C:\Users\admin\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\cmd;C:\Users\admin\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin;C:\Users\admin\AppData\Local\Apps\2.0\ZYOWP79T.V35\COW2NZV5.1EC\gith..tion_317444273a93ac29_0002.000d_7c798cfff9a06ed4;C:\Users\admin\AppData\Local\GitHub\lfs-x86_0.5.0-pre2;C:\Windows\Microsoft.NET\Framework\v4.0.30319;C:\Windows\System32
+2015-04-15 22:51:17.0791|INFO|thread:18|ProcessWrapper|Starting: Process - FileName: 'C:\Users\admin\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin\git.exe', Args: 'add --all "D:\Development\schoolerp\.gitattributes" ', Working Directory: D:\Development\schoolerp\
+2015-04-15 22:51:17.1777|INFO|thread:31|GitEnvironment|Process set up with this SSH Agent info: (null):(null)
+2015-04-15 22:51:17.1777|INFO|thread:31|GitEnvironment|PATH is C:\Users\admin\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\cmd;C:\Users\admin\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin;C:\Users\admin\AppData\Local\Apps\2.0\ZYOWP79T.V35\COW2NZV5.1EC\gith..tion_317444273a93ac29_0002.000d_7c798cfff9a06ed4;C:\Users\admin\AppData\Local\GitHub\lfs-x86_0.5.0-pre2;C:\Windows\Microsoft.NET\Framework\v4.0.30319;C:\Windows\System32
+2015-04-15 22:51:17.1777|INFO|thread:31|ProcessWrapper|Starting: Process - FileName: 'C:\Users\admin\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin\git.exe', Args: 'add --all "D:\Development\schoolerp\.gitignore" ', Working Directory: D:\Development\schoolerp\
+2015-04-15 22:51:17.2675|INFO|thread:31|GitEnvironment|Process set up with this SSH Agent info: (null):(null)
+2015-04-15 22:51:17.2675|INFO|thread:31|GitEnvironment|PATH is C:\Users\admin\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\cmd;C:\Users\admin\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin;C:\Users\admin\AppData\Local\Apps\2.0\ZYOWP79T.V35\COW2NZV5.1EC\gith..tion_317444273a93ac29_0002.000d_7c798cfff9a06ed4;C:\Users\admin\AppData\Local\GitHub\lfs-x86_0.5.0-pre2;C:\Windows\Microsoft.NET\Framework\v4.0.30319;C:\Windows\System32
+2015-04-15 22:51:17.2675|INFO|thread:31|ProcessWrapper|Starting: Process - FileName: 'C:\Users\admin\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin\git.exe', Args: 'commit -F "C:\Users\admin\AppData\Local\Temp\tmp7F7E.tmp" ', Working Directory: D:\Development\schoolerp\
+2015-04-15 22:51:17.3818|WARN|thread:17|RepositoryCreator|Failed to autocommit .gitattributes and/or .gitignore files
+GitHub.IO.ProcessException: 
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'admin@admin-PC.(none)')
+2015-04-15 22:51:17.3818|INFO|thread:17|RepositoryCreator|Created repository sucessfully: 'D:\Development\schoolerp'
+2015-04-15 22:51:17.3818|INFO|thread:17|AsyncReaderWriterLock|Released exclusive lock for operation 7: 'CreateCommit' on resource D:\Development\schoolerp\.git
+2015-04-15 22:51:39.1455|INFO|thread: 1|RepositoryViewModel|Refreshing all information for repo
+2015-04-15 22:51:39.1455|INFO|thread:21|AsyncReaderWriterLock|Acquiring concurrent lock for operation 8: 'LoadHeadForRepo' on resource C:\Users\admin\Documents\GitHub\schoolerp\.git
+2015-04-15 22:51:39.1455|INFO|thread:21|AsyncReaderWriterLock|Acquired concurrent lock for operation 8: 'LoadHeadForRepo' on resource C:\Users\admin\Documents\GitHub\schoolerp\.git
+2015-04-15 22:51:39.1630|INFO|thread:18|AsyncReaderWriterLock|Released concurrent lock for operation 8: 'LoadHeadForRepo' on resource C:\Users\admin\Documents\GitHub\schoolerp\.git
+2015-04-15 22:51:39.1630|INFO|thread:21|AsyncReaderWriterLock|Acquiring concurrent lock for operation 9: 'LoadFilesInWorkingDirectory' on resource C:\Users\admin\Documents\GitHub\schoolerp\.git
+2015-04-15 22:51:39.1630|INFO|thread:21|AsyncReaderWriterLock|Acquired concurrent lock for operation 9: 'LoadFilesInWorkingDirectory' on resource C:\Users\admin\Documents\GitHub\schoolerp\.git
+2015-04-15 22:51:39.1826|INFO|thread:16|GitEnvironment|Process set up with this SSH Agent info: (null):(null)
+2015-04-15 22:51:39.1826|INFO|thread:16|GitEnvironment|PATH is C:\Users\admin\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\cmd;C:\Users\admin\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin;C:\Users\admin\AppData\Local\Apps\2.0\ZYOWP79T.V35\COW2NZV5.1EC\gith..tion_317444273a93ac29_0002.000d_7c798cfff9a06ed4;C:\Users\admin\AppData\Local\GitHub\lfs-x86_0.5.0-pre2;C:\Windows\Microsoft.NET\Framework\v4.0.30319;C:\Windows\System32
+2015-04-15 22:51:39.1826|INFO|thread:16|ProcessWrapper|Starting: Process - FileName: 'C:\Users\admin\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin\git.exe', Args: 'status --untracked-files=all --porcelain -z ', Working Directory: C:\Users\admin\Documents\GitHub\schoolerp\
+2015-04-15 22:51:39.2500|INFO|thread:17|AsyncReaderWriterLock|Released concurrent lock for operation 9: 'LoadFilesInWorkingDirectory' on resource C:\Users\admin\Documents\GitHub\schoolerp\.git
+2015-04-15 22:51:39.2500|ERROR|thread: 1|SyncButtonViewModel|Branch was not updated before refresh was called
+2015-04-15 22:51:55.0937|INFO|thread:21|AsyncReaderWriterLock|Acquiring exclusive lock for operation 10: 'CreateCommit' on resource C:\Users\admin\Documents\GitHub\schoolerp\.git
+2015-04-15 22:51:55.0937|INFO|thread:21|AsyncReaderWriterLock|Acquired exclusive lock for operation 10: 'CreateCommit' on resource C:\Users\admin\Documents\GitHub\schoolerp\.git
+2015-04-15 22:51:55.0937|INFO|thread:16|ExclusiveRepositoryConnection|Creating Commit
+2015-04-15 22:51:55.0937|INFO|thread:16|ExclusiveRepositoryConnection|Creating new commit with 2 file(s). h
+2015-04-15 22:51:55.1093|INFO|thread:16|GitEnvironment|Process set up with this SSH Agent info: (null):(null)
+2015-04-15 22:51:55.1093|INFO|thread:16|GitEnvironment|PATH is C:\Users\admin\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\cmd;C:\Users\admin\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin;C:\Users\admin\AppData\Local\Apps\2.0\ZYOWP79T.V35\COW2NZV5.1EC\gith..tion_317444273a93ac29_0002.000d_7c798cfff9a06ed4;C:\Users\admin\AppData\Local\GitHub\lfs-x86_0.5.0-pre2;C:\Windows\Microsoft.NET\Framework\v4.0.30319;C:\Windows\System32
+2015-04-15 22:51:55.1093|INFO|thread:16|ProcessWrapper|Starting: Process - FileName: 'C:\Users\admin\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin\git.exe', Args: 'add --all ".gitattributes" ', Working Directory: C:\Users\admin\Documents\GitHub\schoolerp\
+2015-04-15 22:51:55.2294|INFO|thread:31|GitEnvironment|Process set up with this SSH Agent info: (null):(null)
+2015-04-15 22:51:55.2294|INFO|thread:31|GitEnvironment|PATH is C:\Users\admin\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\cmd;C:\Users\admin\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin;C:\Users\admin\AppData\Local\Apps\2.0\ZYOWP79T.V35\COW2NZV5.1EC\gith..tion_317444273a93ac29_0002.000d_7c798cfff9a06ed4;C:\Users\admin\AppData\Local\GitHub\lfs-x86_0.5.0-pre2;C:\Windows\Microsoft.NET\Framework\v4.0.30319;C:\Windows\System32
+2015-04-15 22:51:55.2294|INFO|thread:31|ProcessWrapper|Starting: Process - FileName: 'C:\Users\admin\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin\git.exe', Args: 'add --all ".gitignore" ', Working Directory: C:\Users\admin\Documents\GitHub\schoolerp\
+2015-04-15 22:51:55.2929|INFO|thread:31|GitEnvironment|Process set up with this SSH Agent info: (null):(null)
+2015-04-15 22:51:55.2929|INFO|thread:31|GitEnvironment|PATH is C:\Users\admin\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\cmd;C:\Users\admin\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin;C:\Users\admin\AppData\Local\Apps\2.0\ZYOWP79T.V35\COW2NZV5.1EC\gith..tion_317444273a93ac29_0002.000d_7c798cfff9a06ed4;C:\Users\admin\AppData\Local\GitHub\lfs-x86_0.5.0-pre2;C:\Windows\Microsoft.NET\Framework\v4.0.30319;C:\Windows\System32
+2015-04-15 22:51:55.2929|INFO|thread:31|ProcessWrapper|Starting: Process - FileName: 'C:\Users\admin\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin\git.exe', Args: 'commit -F "C:\Users\admin\AppData\Local\Temp\tmp140E.tmp" ', Working Directory: C:\Users\admin\Documents\GitHub\schoolerp\
+2015-04-15 22:51:55.3525|INFO|thread:31|AsyncReaderWriterLock|Released exclusive lock for operation 10: 'CreateCommit' on resource C:\Users\admin\Documents\GitHub\schoolerp\.git
+2015-04-15 22:51:55.4218|WARN|thread: 1|StandardUserErrors|Showing user error Failed to create a new commit.
+GitHub.IO.ProcessException: 
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'admin@admin-PC.(none)')
+2015-04-15 22:52:04.7910|INFO|thread: 1|RepositoryViewModel|Refreshing all information for repo
+2015-04-15 22:52:04.7910|INFO|thread:21|AsyncReaderWriterLock|Acquiring concurrent lock for operation 11: 'LoadHeadForRepo' on resource C:\Users\admin\Documents\GitHub\schoolerp\.git
+2015-04-15 22:52:04.7910|INFO|thread:21|AsyncReaderWriterLock|Acquired concurrent lock for operation 11: 'LoadHeadForRepo' on resource C:\Users\admin\Documents\GitHub\schoolerp\.git
+2015-04-15 22:52:04.8154|INFO|thread:12|AsyncReaderWriterLock|Released concurrent lock for operation 11: 'LoadHeadForRepo' on resource C:\Users\admin\Documents\GitHub\schoolerp\.git
+2015-04-15 22:52:04.8154|INFO|thread:31|AsyncReaderWriterLock|Acquiring concurrent lock for operation 12: 'LoadFilesInWorkingDirectory' on resource C:\Users\admin\Documents\GitHub\schoolerp\.git
+2015-04-15 22:52:04.8154|INFO|thread:31|AsyncReaderWriterLock|Acquired concurrent lock for operation 12: 'LoadFilesInWorkingDirectory' on resource C:\Users\admin\Documents\GitHub\schoolerp\.git
+2015-04-15 22:52:04.8300|INFO|thread:16|GitEnvironment|Process set up with this SSH Agent info: (null):(null)
+2015-04-15 22:52:04.8300|INFO|thread:16|GitEnvironment|PATH is C:\Users\admin\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\cmd;C:\Users\admin\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin;C:\Users\admin\AppData\Local\Apps\2.0\ZYOWP79T.V35\COW2NZV5.1EC\gith..tion_317444273a93ac29_0002.000d_7c798cfff9a06ed4;C:\Users\admin\AppData\Local\GitHub\lfs-x86_0.5.0-pre2;C:\Windows\Microsoft.NET\Framework\v4.0.30319;C:\Windows\System32
+2015-04-15 22:52:04.8300|INFO|thread:16|ProcessWrapper|Starting: Process - FileName: 'C:\Users\admin\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin\git.exe', Args: 'status --untracked-files=all --porcelain -z ', Working Directory: C:\Users\admin\Documents\GitHub\schoolerp\
+2015-04-15 22:52:04.9121|INFO|thread:23|AsyncReaderWriterLock|Released concurrent lock for operation 12: 'LoadFilesInWorkingDirectory' on resource C:\Users\admin\Documents\GitHub\schoolerp\.git
+2015-04-15 22:52:04.9218|ERROR|thread: 1|SyncButtonViewModel|Branch was not updated before refresh was called
+2015-04-15 22:52:19.3759|INFO|thread: 1|ReactiveScreen|Activating GitHub.ViewModels.RepositoryOptionsViewModel.
+2015-04-15 22:52:19.3759|INFO|thread: 4|AsyncReaderWriterLock|Acquiring concurrent lock for operation 13: 'GetRepositorySettings' on resource C:\Users\admin\Documents\GitHub\schoolerp\.git
+2015-04-15 22:52:19.3759|INFO|thread: 4|AsyncReaderWriterLock|Acquired concurrent lock for operation 13: 'GetRepositorySettings' on resource C:\Users\admin\Documents\GitHub\schoolerp\.git
+2015-04-15 22:52:19.3916|INFO|thread:16|GitClient|Grabbing Repo Settings
+2015-04-15 22:52:19.4267|INFO|thread:16|AsyncReaderWriterLock|Released concurrent lock for operation 13: 'GetRepositorySettings' on resource C:\Users\admin\Documents\GitHub\schoolerp\.git
+2015-04-15 22:52:19.6972|INFO|thread:18|AsyncReaderWriterLock|Acquiring concurrent lock for operation 14: 'LoadGitLfsAttributeEntries' on resource C:\Users\admin\Documents\GitHub\schoolerp\.git
+2015-04-15 22:52:19.6972|INFO|thread:18|AsyncReaderWriterLock|Acquired concurrent lock for operation 14: 'LoadGitLfsAttributeEntries' on resource C:\Users\admin\Documents\GitHub\schoolerp\.git
+2015-04-15 22:52:19.7236|INFO|thread:16|AsyncReaderWriterLock|Released concurrent lock for operation 14: 'LoadGitLfsAttributeEntries' on resource C:\Users\admin\Documents\GitHub\schoolerp\.git
+2015-04-15 22:54:35.0214|INFO|thread:34|AsyncReaderWriterLock|Acquiring exclusive lock for operation 15: 'SaveOriginUrl' on resource C:\Users\admin\Documents\GitHub\schoolerp\.git
+2015-04-15 22:54:35.0214|INFO|thread:34|AsyncReaderWriterLock|Acquired exclusive lock for operation 15: 'SaveOriginUrl' on resource C:\Users\admin\Documents\GitHub\schoolerp\.git
+2015-04-15 22:54:35.0351|INFO|thread:36|AsyncReaderWriterLock|Released exclusive lock for operation 15: 'SaveOriginUrl' on resource C:\Users\admin\Documents\GitHub\schoolerp\.git
+2015-04-15 22:54:35.0351|INFO|thread:34|AsyncReaderWriterLock|Acquiring exclusive lock for operation 16: 'SaveGitIgnoreFile' on resource C:\Users\admin\Documents\GitHub\schoolerp\.git
+2015-04-15 22:54:35.0351|INFO|thread:34|AsyncReaderWriterLock|Acquired exclusive lock for operation 16: 'SaveGitIgnoreFile' on resource C:\Users\admin\Documents\GitHub\schoolerp\.git
+2015-04-15 22:54:35.0507|INFO|thread:16|AsyncReaderWriterLock|Acquiring exclusive lock for operation 17: 'SaveGitAttributesFile' on resource C:\Users\admin\Documents\GitHub\schoolerp\.git
+2015-04-15 22:54:35.0507|INFO|thread:37|AsyncReaderWriterLock|Released exclusive lock for operation 16: 'SaveGitIgnoreFile' on resource C:\Users\admin\Documents\GitHub\schoolerp\.git
+2015-04-15 22:54:35.0507|INFO|thread:34|AsyncReaderWriterLock|Acquired exclusive lock for operation 17: 'SaveGitAttributesFile' on resource C:\Users\admin\Documents\GitHub\schoolerp\.git
+2015-04-15 22:54:35.0507|INFO|thread:39|AsyncReaderWriterLock|Released exclusive lock for operation 17: 'SaveGitAttributesFile' on resource C:\Users\admin\Documents\GitHub\schoolerp\.git
+2015-04-15 22:54:35.0673|INFO|thread:38|AsyncReaderWriterLock|Acquiring concurrent lock for operation 18: 'LoadFilesInWorkingDirectory' on resource C:\Users\admin\Documents\GitHub\schoolerp\.git
+2015-04-15 22:54:35.0673|INFO|thread: 1|ReactiveScreen|Deactivating GitHub.ViewModels.RepositoryOptionsViewModel.
+2015-04-15 22:54:35.0673|INFO|thread: 1|ReactiveScreen|Closed GitHub.ViewModels.RepositoryOptionsViewModel.
+2015-04-15 22:54:35.0673|INFO|thread:38|AsyncReaderWriterLock|Acquired concurrent lock for operation 18: 'LoadFilesInWorkingDirectory' on resource C:\Users\admin\Documents\GitHub\schoolerp\.git
+2015-04-15 22:54:35.0673|INFO|thread:40|GitEnvironment|Process set up with this SSH Agent info: (null):(null)
+2015-04-15 22:54:35.0673|INFO|thread:40|GitEnvironment|PATH is C:\Users\admin\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\cmd;C:\Users\admin\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin;C:\Users\admin\AppData\Local\Apps\2.0\ZYOWP79T.V35\COW2NZV5.1EC\gith..tion_317444273a93ac29_0002.000d_7c798cfff9a06ed4;C:\Users\admin\AppData\Local\GitHub\lfs-x86_0.5.0-pre2;C:\Windows\Microsoft.NET\Framework\v4.0.30319;C:\Windows\System32
+2015-04-15 22:54:35.0673|INFO|thread:40|ProcessWrapper|Starting: Process - FileName: 'C:\Users\admin\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin\git.exe', Args: 'status --untracked-files=all --porcelain -z ', Working Directory: C:\Users\admin\Documents\GitHub\schoolerp\
+2015-04-15 22:54:35.3007|INFO|thread:35|AsyncReaderWriterLock|Released concurrent lock for operation 18: 'LoadFilesInWorkingDirectory' on resource C:\Users\admin\Documents\GitHub\schoolerp\.git
+2015-04-15 22:54:38.0585|INFO|thread:39|AsyncReaderWriterLock|Acquiring exclusive lock for operation 19: 'CreateCommit' on resource C:\Users\admin\Documents\GitHub\schoolerp\.git
+2015-04-15 22:54:38.0585|INFO|thread:39|AsyncReaderWriterLock|Acquired exclusive lock for operation 19: 'CreateCommit' on resource C:\Users\admin\Documents\GitHub\schoolerp\.git
+2015-04-15 22:54:38.0634|INFO|thread:37|ExclusiveRepositoryConnection|Creating Commit
+2015-04-15 22:54:38.0634|INFO|thread:37|ExclusiveRepositoryConnection|Creating new commit with 2 file(s). h
+2015-04-15 22:54:38.0634|INFO|thread:37|GitEnvironment|Process set up with this SSH Agent info: (null):(null)
+2015-04-15 22:54:38.0634|INFO|thread:37|GitEnvironment|PATH is C:\Users\admin\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\cmd;C:\Users\admin\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin;C:\Users\admin\AppData\Local\Apps\2.0\ZYOWP79T.V35\COW2NZV5.1EC\gith..tion_317444273a93ac29_0002.000d_7c798cfff9a06ed4;C:\Users\admin\AppData\Local\GitHub\lfs-x86_0.5.0-pre2;C:\Windows\Microsoft.NET\Framework\v4.0.30319;C:\Windows\System32
+2015-04-15 22:54:38.0634|INFO|thread:37|ProcessWrapper|Starting: Process - FileName: 'C:\Users\admin\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin\git.exe', Args: 'add --all ".gitattributes" ', Working Directory: C:\Users\admin\Documents\GitHub\schoolerp\
+2015-04-15 22:54:38.1181|INFO|thread:35|GitEnvironment|Process set up with this SSH Agent info: (null):(null)
+2015-04-15 22:54:38.1181|INFO|thread:35|GitEnvironment|PATH is C:\Users\admin\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\cmd;C:\Users\admin\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin;C:\Users\admin\AppData\Local\Apps\2.0\ZYOWP79T.V35\COW2NZV5.1EC\gith..tion_317444273a93ac29_0002.000d_7c798cfff9a06ed4;C:\Users\admin\AppData\Local\GitHub\lfs-x86_0.5.0-pre2;C:\Windows\Microsoft.NET\Framework\v4.0.30319;C:\Windows\System32
+2015-04-15 22:54:38.1181|INFO|thread:35|ProcessWrapper|Starting: Process - FileName: 'C:\Users\admin\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin\git.exe', Args: 'add --all ".gitignore" ', Working Directory: C:\Users\admin\Documents\GitHub\schoolerp\
+2015-04-15 22:54:38.1640|INFO|thread:35|GitEnvironment|Process set up with this SSH Agent info: (null):(null)
+2015-04-15 22:54:38.1640|INFO|thread:35|GitEnvironment|PATH is C:\Users\admin\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\cmd;C:\Users\admin\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin;C:\Users\admin\AppData\Local\Apps\2.0\ZYOWP79T.V35\COW2NZV5.1EC\gith..tion_317444273a93ac29_0002.000d_7c798cfff9a06ed4;C:\Users\admin\AppData\Local\GitHub\lfs-x86_0.5.0-pre2;C:\Windows\Microsoft.NET\Framework\v4.0.30319;C:\Windows\System32
+2015-04-15 22:54:38.1640|INFO|thread:35|ProcessWrapper|Starting: Process - FileName: 'C:\Users\admin\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin\git.exe', Args: 'commit -F "C:\Users\admin\AppData\Local\Temp\tmp904A.tmp" ', Working Directory: C:\Users\admin\Documents\GitHub\schoolerp\
+2015-04-15 22:54:38.2265|INFO|thread:41|AsyncReaderWriterLock|Released exclusive lock for operation 19: 'CreateCommit' on resource C:\Users\admin\Documents\GitHub\schoolerp\.git
+2015-04-15 22:54:38.2265|WARN|thread: 1|StandardUserErrors|Showing user error Failed to create a new commit.
+GitHub.IO.ProcessException: 
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'admin@admin-PC.(none)')
+2015-04-15 22:54:40.3593|INFO|thread: 1|ProcessWrapper|Starting: Process - FileName: 'C:\Users\admin\AppData\Local\Apps\2.0\ZYOWP79T.V35\COW2NZV5.1EC\gith..tion_317444273a93ac29_0002.000d_7c798cfff9a06ed4\7za.exe', Args: 'x -y "-oC:\Users\admin\AppData\Local\GitHub\cdhdukyw.3b1.deleteme" "C:\Users\admin\AppData\Local\Apps\2.0\ZYOWP79T.V35\COW2NZV5.1EC\gith..tion_317444273a93ac29_0002.000d_7c798cfff9a06ed4\posh-git.7z"', Working Directory: 
+2015-04-15 22:54:40.3593|INFO|thread: 1|PortablePackageManager|Extracting posh-git.7z is (so far) successful
+2015-04-15 22:54:40.4335|INFO|thread:34|PortablePackageManager|GitHub.IO.ObservableProcess
+2015-04-15 22:54:40.4335|INFO|thread: 1|GitEnvironment|Process set up with this SSH Agent info: (null):(null)
+2015-04-15 22:54:40.4335|INFO|thread: 1|GitEnvironment|PATH is C:\Users\admin\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\cmd;C:\Users\admin\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin;C:\Users\admin\AppData\Local\Apps\2.0\ZYOWP79T.V35\COW2NZV5.1EC\gith..tion_317444273a93ac29_0002.000d_7c798cfff9a06ed4;C:\Users\admin\AppData\Local\GitHub\lfs-x86_0.5.0-pre2;C:\Windows\Microsoft.NET\Framework\v4.0.30319;C:\Users\admin\AppData\Local\Apps\2.0\ZYOWP79T.V35\COW2NZV5.1EC\gith..tion_317444273a93ac29_0002.000d_7c798cfff9a06ed4\NativeBinaries/x86;C:\Users\admin\AppData\Local\Google\Chrome\Application;C:\ProgramData\Oracle\Java\javapath;C:\oracle\product\10.2.0\db_1\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\
+2015-04-15 22:54:40.4335|INFO|thread: 1|ProcessWrapper|Starting: Process - FileName: 'C:\Windows\System32\WindowsPowerShell\v1.0\Powershell.exe', Args: '-NoExit -ExecutionPolicy Unrestricted -File "C:\Users\admin\AppData\Local\GitHub\PoshGit_869d4c5159797755bc04749db47b166136e59132\profile.example.ps1"', Working Directory: C:\Users\admin\Documents\GitHub\schoolerp
+2015-04-15 22:54:49.8701|INFO|thread: 1|RepositoryViewModel|Refreshing all information for repo
+2015-04-15 22:54:49.8701|INFO|thread:35|AsyncReaderWriterLock|Acquiring concurrent lock for operation 20: 'LoadHeadForRepo' on resource C:\Users\admin\Documents\GitHub\schoolerp\.git
+2015-04-15 22:54:49.8701|INFO|thread:41|AsyncReaderWriterLock|Acquired concurrent lock for operation 20: 'LoadHeadForRepo' on resource C:\Users\admin\Documents\GitHub\schoolerp\.git
+2015-04-15 22:54:49.8759|INFO|thread:37|AsyncReaderWriterLock|Released concurrent lock for operation 20: 'LoadHeadForRepo' on resource C:\Users\admin\Documents\GitHub\schoolerp\.git
+2015-04-15 22:54:49.8759|INFO|thread:41|AsyncReaderWriterLock|Acquiring concurrent lock for operation 21: 'LoadFilesInWorkingDirectory' on resource C:\Users\admin\Documents\GitHub\schoolerp\.git
+2015-04-15 22:54:49.8759|INFO|thread:41|AsyncReaderWriterLock|Acquired concurrent lock for operation 21: 'LoadFilesInWorkingDirectory' on resource C:\Users\admin\Documents\GitHub\schoolerp\.git
+2015-04-15 22:54:49.9091|INFO|thread:40|GitEnvironment|Process set up with this SSH Agent info: 5292:/tmp/ssh-aVdccHMr9ke7/agent.5560
+2015-04-15 22:54:49.9091|INFO|thread:40|GitEnvironment|PATH is C:\Users\admin\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\cmd;C:\Users\admin\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin;C:\Users\admin\AppData\Local\Apps\2.0\ZYOWP79T.V35\COW2NZV5.1EC\gith..tion_317444273a93ac29_0002.000d_7c798cfff9a06ed4;C:\Users\admin\AppData\Local\GitHub\lfs-x86_0.5.0-pre2;C:\Windows\Microsoft.NET\Framework\v4.0.30319;C:\Windows\System32
+2015-04-15 22:54:49.9091|INFO|thread:40|ProcessWrapper|Starting: Process - FileName: 'C:\Users\admin\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin\git.exe', Args: 'status --untracked-files=all --porcelain -z ', Working Directory: C:\Users\admin\Documents\GitHub\schoolerp\
+2015-04-15 22:54:49.9755|INFO|thread:35|AsyncReaderWriterLock|Released concurrent lock for operation 21: 'LoadFilesInWorkingDirectory' on resource C:\Users\admin\Documents\GitHub\schoolerp\.git
+2015-04-15 22:54:49.9755|ERROR|thread: 1|SyncButtonViewModel|Branch was not updated before refresh was called
+2015-04-15 22:54:49.9843|ERROR|thread: 1|SyncButtonViewModel|Branch was not updated before refresh was called
+2015-04-15 22:55:35.0683|INFO|thread: 1|RepositoryViewModel|Refreshing all information for repo
+2015-04-15 22:55:35.0683|INFO|thread:37|AsyncReaderWriterLock|Acquiring concurrent lock for operation 22: 'LoadHeadForRepo' on resource C:\Users\admin\Documents\GitHub\schoolerp\.git
+2015-04-15 22:55:35.0683|INFO|thread:37|AsyncReaderWriterLock|Acquired concurrent lock for operation 22: 'LoadHeadForRepo' on resource C:\Users\admin\Documents\GitHub\schoolerp\.git
+2015-04-15 22:55:35.0791|INFO|thread:36|AsyncReaderWriterLock|Released concurrent lock for operation 22: 'LoadHeadForRepo' on resource C:\Users\admin\Documents\GitHub\schoolerp\.git
+2015-04-15 22:55:35.0791|INFO|thread:37|AsyncReaderWriterLock|Acquiring concurrent lock for operation 23: 'LoadFilesInWorkingDirectory' on resource C:\Users\admin\Documents\GitHub\schoolerp\.git
+2015-04-15 22:55:35.0791|INFO|thread:37|AsyncReaderWriterLock|Acquired concurrent lock for operation 23: 'LoadFilesInWorkingDirectory' on resource C:\Users\admin\Documents\GitHub\schoolerp\.git
+2015-04-15 22:55:35.1064|INFO|thread:43|GitEnvironment|Process set up with this SSH Agent info: 5292:/tmp/ssh-aVdccHMr9ke7/agent.5560
+2015-04-15 22:55:35.1064|INFO|thread:43|GitEnvironment|PATH is C:\Users\admin\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\cmd;C:\Users\admin\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin;C:\Users\admin\AppData\Local\Apps\2.0\ZYOWP79T.V35\COW2NZV5.1EC\gith..tion_317444273a93ac29_0002.000d_7c798cfff9a06ed4;C:\Users\admin\AppData\Local\GitHub\lfs-x86_0.5.0-pre2;C:\Windows\Microsoft.NET\Framework\v4.0.30319;C:\Windows\System32
+2015-04-15 22:55:35.1064|INFO|thread:43|ProcessWrapper|Starting: Process - FileName: 'C:\Users\admin\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin\git.exe', Args: 'status --untracked-files=all --porcelain -z ', Working Directory: C:\Users\admin\Documents\GitHub\schoolerp\
+2015-04-15 22:55:36.1210|INFO|thread:36|AsyncReaderWriterLock|Released concurrent lock for operation 23: 'LoadFilesInWorkingDirectory' on resource C:\Users\admin\Documents\GitHub\schoolerp\.git
+2015-04-15 22:55:36.1640|ERROR|thread: 1|SyncButtonViewModel|Branch was not updated before refresh was called
+2015-04-15 22:55:40.1914|INFO|thread:37|AsyncReaderWriterLock|Acquiring exclusive lock for operation 24: 'CreateCommit' on resource C:\Users\admin\Documents\GitHub\schoolerp\.git
+2015-04-15 22:55:40.1914|INFO|thread:37|AsyncReaderWriterLock|Acquired exclusive lock for operation 24: 'CreateCommit' on resource C:\Users\admin\Documents\GitHub\schoolerp\.git
+2015-04-15 22:55:40.2060|INFO|thread:40|ExclusiveRepositoryConnection|Creating Commit
+2015-04-15 22:55:40.2060|INFO|thread:40|ExclusiveRepositoryConnection|Creating new commit with 3 file(s). h
+2015-04-15 22:55:40.2060|INFO|thread:40|GitEnvironment|Process set up with this SSH Agent info: 5292:/tmp/ssh-aVdccHMr9ke7/agent.5560
+2015-04-15 22:55:40.2060|INFO|thread:40|GitEnvironment|PATH is C:\Users\admin\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\cmd;C:\Users\admin\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin;C:\Users\admin\AppData\Local\Apps\2.0\ZYOWP79T.V35\COW2NZV5.1EC\gith..tion_317444273a93ac29_0002.000d_7c798cfff9a06ed4;C:\Users\admin\AppData\Local\GitHub\lfs-x86_0.5.0-pre2;C:\Windows\Microsoft.NET\Framework\v4.0.30319;C:\Windows\System32
+2015-04-15 22:55:40.2060|INFO|thread:40|ProcessWrapper|Starting: Process - FileName: 'C:\Users\admin\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin\git.exe', Args: 'add --all ".gitattributes" ', Working Directory: C:\Users\admin\Documents\GitHub\schoolerp\
+2015-04-15 22:55:40.2705|INFO|thread:36|GitEnvironment|Process set up with this SSH Agent info: 5292:/tmp/ssh-aVdccHMr9ke7/agent.5560
+2015-04-15 22:55:40.2705|INFO|thread:36|GitEnvironment|PATH is C:\Users\admin\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\cmd;C:\Users\admin\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin;C:\Users\admin\AppData\Local\Apps\2.0\ZYOWP79T.V35\COW2NZV5.1EC\gith..tion_317444273a93ac29_0002.000d_7c798cfff9a06ed4;C:\Users\admin\AppData\Local\GitHub\lfs-x86_0.5.0-pre2;C:\Windows\Microsoft.NET\Framework\v4.0.30319;C:\Windows\System32
+2015-04-15 22:55:40.2705|INFO|thread:36|ProcessWrapper|Starting: Process - FileName: 'C:\Users\admin\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin\git.exe', Args: 'add --all ".gitignore" ', Working Directory: C:\Users\admin\Documents\GitHub\schoolerp\
+2015-04-15 22:55:41.2285|INFO|thread:36|GitEnvironment|Process set up with this SSH Agent info: 5292:/tmp/ssh-aVdccHMr9ke7/agent.5560
+2015-04-15 22:55:41.2285|INFO|thread:36|GitEnvironment|PATH is C:\Users\admin\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\cmd;C:\Users\admin\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin;C:\Users\admin\AppData\Local\Apps\2.0\ZYOWP79T.V35\COW2NZV5.1EC\gith..tion_317444273a93ac29_0002.000d_7c798cfff9a06ed4;C:\Users\admin\AppData\Local\GitHub\lfs-x86_0.5.0-pre2;C:\Windows\Microsoft.NET\Framework\v4.0.30319;C:\Windows\System32
+2015-04-15 22:55:41.2285|INFO|thread:36|ProcessWrapper|Starting: Process - FileName: 'C:\Users\admin\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin\git.exe', Args: 'add --all "f.pub" ', Working Directory: C:\Users\admin\Documents\GitHub\schoolerp\
+2015-04-15 22:55:41.2871|INFO|thread:36|GitEnvironment|Process set up with this SSH Agent info: 5292:/tmp/ssh-aVdccHMr9ke7/agent.5560
+2015-04-15 22:55:41.2871|INFO|thread:36|GitEnvironment|PATH is C:\Users\admin\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\cmd;C:\Users\admin\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin;C:\Users\admin\AppData\Local\Apps\2.0\ZYOWP79T.V35\COW2NZV5.1EC\gith..tion_317444273a93ac29_0002.000d_7c798cfff9a06ed4;C:\Users\admin\AppData\Local\GitHub\lfs-x86_0.5.0-pre2;C:\Windows\Microsoft.NET\Framework\v4.0.30319;C:\Windows\System32
+2015-04-15 22:55:41.2871|INFO|thread:36|ProcessWrapper|Starting: Process - FileName: 'C:\Users\admin\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin\git.exe', Args: 'commit -F "C:\Users\admin\AppData\Local\Temp\tmp86D0.tmp" ', Working Directory: C:\Users\admin\Documents\GitHub\schoolerp\
+2015-04-15 22:55:41.3623|INFO|thread:36|AsyncReaderWriterLock|Released exclusive lock for operation 24: 'CreateCommit' on resource C:\Users\admin\Documents\GitHub\schoolerp\.git
+2015-04-15 22:55:41.3623|WARN|thread: 1|StandardUserErrors|Showing user error Failed to create a new commit.
+GitHub.IO.ProcessException: 
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'admin@admin-PC.(none)')
+2015-04-15 22:55:54.3671|INFO|thread: 1|RepositoryViewModel|Refreshing all information for repo
+2015-04-15 22:55:54.3671|INFO|thread:45|AsyncReaderWriterLock|Acquiring concurrent lock for operation 25: 'LoadHeadForRepo' on resource C:\Users\admin\Documents\GitHub\schoolerp\.git
+2015-04-15 22:55:54.3671|INFO|thread:45|AsyncReaderWriterLock|Acquired concurrent lock for operation 25: 'LoadHeadForRepo' on resource C:\Users\admin\Documents\GitHub\schoolerp\.git
+2015-04-15 22:55:54.3886|INFO|thread:40|AsyncReaderWriterLock|Released concurrent lock for operation 25: 'LoadHeadForRepo' on resource C:\Users\admin\Documents\GitHub\schoolerp\.git
+2015-04-15 22:55:54.3886|INFO|thread:37|AsyncReaderWriterLock|Acquiring concurrent lock for operation 26: 'LoadFilesInWorkingDirectory' on resource C:\Users\admin\Documents\GitHub\schoolerp\.git
+2015-04-15 22:55:54.3886|INFO|thread:44|AsyncReaderWriterLock|Acquired concurrent lock for operation 26: 'LoadFilesInWorkingDirectory' on resource C:\Users\admin\Documents\GitHub\schoolerp\.git
+2015-04-15 22:55:54.4023|INFO|thread:47|GitEnvironment|Process set up with this SSH Agent info: 5292:/tmp/ssh-aVdccHMr9ke7/agent.5560
+2015-04-15 22:55:54.4023|INFO|thread:47|GitEnvironment|PATH is C:\Users\admin\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\cmd;C:\Users\admin\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin;C:\Users\admin\AppData\Local\Apps\2.0\ZYOWP79T.V35\COW2NZV5.1EC\gith..tion_317444273a93ac29_0002.000d_7c798cfff9a06ed4;C:\Users\admin\AppData\Local\GitHub\lfs-x86_0.5.0-pre2;C:\Windows\Microsoft.NET\Framework\v4.0.30319;C:\Windows\System32
+2015-04-15 22:55:54.4023|INFO|thread:47|ProcessWrapper|Starting: Process - FileName: 'C:\Users\admin\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin\git.exe', Args: 'status --untracked-files=all --porcelain -z ', Working Directory: C:\Users\admin\Documents\GitHub\schoolerp\
+2015-04-15 22:55:54.4853|INFO|thread:46|AsyncReaderWriterLock|Released concurrent lock for operation 26: 'LoadFilesInWorkingDirectory' on resource C:\Users\admin\Documents\GitHub\schoolerp\.git
